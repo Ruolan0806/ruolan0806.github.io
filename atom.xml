@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ruolan0806.github.io</id>
     <title>HHC Food</title>
-    <updated>2020-06-14T00:27:39.218Z</updated>
+    <updated>2020-06-14T00:29:08.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ruolan0806.github.io"/>
     <link rel="self" href="https://ruolan0806.github.io/atom.xml"/>
@@ -17,6 +17,19 @@
         </link>
         <updated>2020-06-13T00:18:44.000Z</updated>
         <content type="html"><![CDATA[<p>HHC Company is dedicated to</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contact us]]></title>
+        <id>https://ruolan0806.github.io/post/about/</id>
+        <link href="https://ruolan0806.github.io/post/about/">
+        </link>
+        <updated>2020-06-12T23:01:34.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="contact-us">Contact us ！🤝</h1>
+<h2 id="hhc-international-trading-company">HHC International trading company</h2>
+<h2 id="tel-9176699550">Tel: 9176699550</h2>
+<h2 id="email-jason1202016gmailcom">Email: jason1202016@gmail.com</h2>
+<h2 id="sales-email">Sales email:</h2>
 ]]></content>
     </entry>
 </feed>
