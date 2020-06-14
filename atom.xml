@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ruolan0806.github.io</id>
     <title>HHC Food</title>
-    <updated>2020-06-14T13:45:34.393Z</updated>
+    <updated>2020-06-14T13:47:32.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ruolan0806.github.io"/>
     <link rel="self" href="https://ruolan0806.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://ruolan0806.github.io/images/avatar.png</logo>
     <icon>https://ruolan0806.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HHC Food</rights>
+    <entry>
+        <title type="html"><![CDATA[Manufacturing]]></title>
+        <id>https://ruolan0806.github.io/post/manufacturing/</id>
+        <link href="https://ruolan0806.github.io/post/manufacturing/">
+        </link>
+        <updated>2020-06-14T01:46:17.000Z</updated>
+        <content type="html"><![CDATA[<p>Fuqing Qixiang Food Co., Ltd., a Sino-foreign joint venture established in 1993 with a total of more than 200 employees, a manufacture that covers an area of 20,000 square meters in Fujian, China. Over the past 29 years, Our company has introduced two production lines of charbroiled eel (Unagi), with an annual output of more than 5,000 tons of Unagi, Since its establishment, we have devoted ourselves to the production and operation of fine Unagi.</p>
+<p>With our excellent quality, our Unagi has become one of the best-selling products in overseas, Our products are mainly exported to United States, Japan, Russia, South Korea, Australia and as well as other countries and regions, we had reached a strategic partnerships with many well-known Japanese companies.</p>
+<p>Our company registered with the FDA and granted the ISO9001-2015 Quality Management System Certification, the QS Certification as well as the HACCP System Certification. Our top quality Unagi is among the best in the industry and has been recognized and praised by customers.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HHC Company Description]]></title>
         <id>https://ruolan0806.github.io/post/hhc-company-description/</id>
